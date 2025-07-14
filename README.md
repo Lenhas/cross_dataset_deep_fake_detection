@@ -165,7 +165,4 @@ If you use this project in academic work please cite:
 
 ---
 
-## License
-
-[MIT](LICENSE) – feel free to use, modify and distribute for research & education.
 
